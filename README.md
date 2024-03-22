@@ -1,0 +1,1 @@
+# Recognition-of-handwritten-Arabic-characters-by-artificial-neural-networks
