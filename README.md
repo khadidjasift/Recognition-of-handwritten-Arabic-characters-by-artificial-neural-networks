@@ -29,8 +29,4 @@ git clone https://github.com/khadidjasift/Recognition-of-handwritten-Arabic-char
 # Go into the repository
 cd Recognition-of-handwritten-Arabic-characters-by-artificial-neural-networks
 
-# Install dependencies
-npm install
 
-# Run the app
-npm start
